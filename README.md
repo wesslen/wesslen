@@ -1,5 +1,5 @@
 ### Hi there 👋
-                                                                      
+<!--                                                                   
 ┣━━ 🖥 papers
 ┃   ┗━━ [Myopic Loss Aversion (Vis 2021)](https://github.com/wesslen/myopic-loss-aversion-vis-2021)
 ┃   ┗━━ [Bayesian Correlation Judgement (Vis 2020)](https://github.com/wesslen/bayesian-correlation-judgement-vis-2020)
@@ -11,7 +11,6 @@
 ┃   ┣━━ [DSBA5122: Visual Analytics (Fall 2019)](https://github.com/wesslen/dsba5122-fall2019)
     ┗━━ [DSBA5122: Visual Analytics (Spring 2019)](https://github.com/wesslen/dsba5122-spring2019)
 
-<!--
 **wesslen/wesslen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
