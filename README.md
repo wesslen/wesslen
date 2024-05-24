@@ -4,7 +4,7 @@
 
 These are some of my favorite repos:
 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>💬 llm/ml/nlp demos
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🤖 llm/ml/nlp demos
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/9d3fa58d511bd562170d56162216355a">Fireworks Colab Fine Tuning</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/fbd696cef602e9cc51de634eed444367">HF SFT QLoRA with Mistral7B and Colab T4</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/00fad183a037559059464a09f32b1e0a">Getting Started with Prompt Engineering with OpenAI API</a>
@@ -22,7 +22,7 @@ These are some of my favorite repos:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/prodigy-openshift">Prodigy OpenShift deployment</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/spacy-fastapi-ceo-uncertainty">FastAPI spaCy deployment on HF Spaces</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   </span>
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🖥 papers
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📄 papers
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/vitality-vis">VitaLITy Vis (Vis 2021)</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/myopic-loss-aversion-vis-2021">Myopic Loss Aversion (Vis 2021)</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/bayesian-correlation-judgement-vis-2020">Bayesian Correlation Judgement (Vis 2020)</a>
