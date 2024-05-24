@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-Here are some of my favorite repos!
 ┣━━ 💬 llm/ml/nlp demos
 ┃   ┗━━ [Fireworks Colab Fine Tuning]([https://github.com/wesslen/bayesian-beagle](https://gist.github.com/wesslen/9d3fa58d511bd562170d56162216355a))
 ┃   ┗━━ [HF SFT QLoRA with Mistral7B and Colab T4](https://gist.github.com/wesslen/fbd696cef602e9cc51de634eed444367)
