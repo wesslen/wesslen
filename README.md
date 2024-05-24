@@ -13,6 +13,7 @@ These are some of my favorite repos:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/prodigy-llm-tweets-tournament">Prodigy LLM prompt tournament for tweet generation by topic</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/prodigy-llm-tweets-tournament">LLM summarization evaluation with Prodigy</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/prodigy-llm-address-extraction">Address extraction NER model with LLM synthetic data and Prodigy</a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/spacy-ecfr-ner">spaCy-Prodigy workflow for NER Citation model on eCFR Banking Regulation</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   </span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🛠️ deployment demos
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/huggingface-sagemaker-snowflake-deployment">Deploying a Huggingface model to AWS SageMaker with Snowflake connector</a>
@@ -32,7 +33,7 @@ These are some of my favorite repos:
 <span style="color: #808080; text-decoration-color: #808080">┃   </span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>💬 teaching
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6211-summer2024">DSBA6122: Advanced Business Analytics (Summer 2024) Notebooks</a>
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6010-spring2022">DSBA6010 / STAT7027: Bayesian Statistics (Spring 2022)</a>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6010-spring2022">DSBA6010|STAT7027: Bayesian Statistics (Spring 2022)</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba5122-fall2019">DSBA5122: Visual Analytics (Fall 2019)</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba5122-spring2019">DSBA5122: Visual Analytics (Spring 2019)</a>
 
