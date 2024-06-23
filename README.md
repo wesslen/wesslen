@@ -5,7 +5,7 @@
 These are some of my favorite repos:
 
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🤖 llm/ml/nlp demos
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/modal-examples">Modal examples: `axolotl` fine tuning and applications (WIP)</a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/modal-examples">Modal examples: axolotl fine tuning and applications (WIP)</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/9d3fa58d511bd562170d56162216355a">Fireworks Colab Fine Tuning</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/fbd696cef602e9cc51de634eed444367">HF SFT QLoRA with Mistral7B and Colab T4</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://gist.github.com/wesslen/00fad183a037559059464a09f32b1e0a">Getting Started with Prompt Engineering with OpenAI API</a>
