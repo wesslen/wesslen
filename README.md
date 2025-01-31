@@ -33,8 +33,9 @@ These are some of my favorite repos:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/vast2017-anchoringeffect">Anchoring Effect in Visual Analytics (VAST 2017)</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   </span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>💬 teaching
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6010-fall2024">DSBA6010: (Special Topics) Applications of LLMs (Fall 2024)</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6211-summer2024">DSBA6122: Advanced Business Analytics (Summer 2024) Notebooks</a>
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6010-spring2022">DSBA6010|STAT7027: Bayesian Statistics (Spring 2022)</a>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba6010-spring2022">DSBA6010|STAT7027: (Special Topics) Bayesian Statistics (Spring 2022)</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba5122-fall2019">DSBA5122: Visual Analytics (Fall 2019)</a>
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/wesslen/dsba5122-spring2019">DSBA5122: Visual Analytics (Spring 2019)</a>
 
